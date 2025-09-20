@@ -41,9 +41,9 @@ Goals:
 ---
 
 ## Tech Stack
-- **Database**: Duckdb 
+- **DuckDB**: lightweight analytics DB; run SQL directly on Pandas DataFrames
 - **Visualization**: Looker Studio 
-- **ETL & Cleaning**: Python (Pandas)  
+- **Cleaning**: Python (Pandas) 
 
 ---
 
